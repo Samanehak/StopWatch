@@ -1,1 +1,1 @@
-# StopWatch
+A Stopwatch project in Python helps track elapsed time with start, stop, and reset functionalities. It uses the `time` module to measure time intervals and can be built with a simple console interface or enhanced with a graphical user interface (GUI) using Tkinter. It’s great for learning time handling.
